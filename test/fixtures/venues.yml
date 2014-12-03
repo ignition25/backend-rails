@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  venue_type: 
+  description: MyString
+  atmosphere: 
+  cover_charge: 
+  wait_time: 
+
+two:
+  name: MyString
+  venue_type: 
+  description: MyString
+  atmosphere: 
+  cover_charge: 
+  wait_time: 
